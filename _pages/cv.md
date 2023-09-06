@@ -55,6 +55,7 @@ redirect_from:
   * Developed an emulator that seamlessly integrated diverse components. Employed the SFML library for game display, incorporated the Picture Bus and Virtual Screen functionalities, and integrated controller mechanisms to capture users' keyboard inputs.
 * Operating System Practice - Dec. 2022
   * [GitHub Repo Here](https://github.com/NCUT-lambda/our-xv6-riscv)
+  * [Get Chinese Guidebook Here](https://ncut-lambda.github.io/our-xv6-riscv/)
   * Engaged in extensive study of relevant manuals, delving deeply into the foundational principles of the system call and its implementation within the xv6-riscv source code.
   * Contributed valuable insights by adding comments to critical sections within the scope of system call in the xv6-riscv source code. These annotations not only captured my thought process but also enhanced team's comprehension and fostered collaborative efforts.
   * Executed the system call code scope, incorporating gnu-gdb breakpoints for precise debugging. Ensured a thoroughly understanding of the implementation and functionality of the scope of system call.
