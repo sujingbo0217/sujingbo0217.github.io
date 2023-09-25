@@ -22,3 +22,7 @@ citation: 'Su, Jing-Bo, et al. &quot;A Parallel Gannet Optimization Algorithm wi
 ### Keywords
 
 > Gannet Optimization Algorithm, Parallel, Communication Strategies.
+
+### Download
+
+[A Parallel Gannet Optimization Algorithm with Communication Strategies (PGOA)](https://sujingbo0217.github.io/files/pgoa.pdf)
