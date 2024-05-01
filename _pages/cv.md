@@ -61,7 +61,7 @@ redirect_from:
   * Evaluated the multi-LoRA fine-tune system against the normal one (single LoRA adapter fine-tune system), confirming that our system can efficiently utilize computational resources, thereby increasing the fine-tune system throughput.
 
 * **NES (Nintendo Entertainment System)**
-  * [GitHub Repo Here](https://github.com/sujingbo0217/NES)
+  <!-- * [GitHub Repo Here](https://github.com/sujingbo0217/NES) -->
   * Implemented a simulation of the 6502 CPU, RAM, and MainBus, including the processes of instruction fetching, decoding, and execution. Successful enabled data Read and Write operations within the CPU.
   * Utilized the ca65 compiler and ld65 linker to compile the assembly code. Analyzed the resulting binary file to test the functionality of the code.
   * Developed an emulator that seamlessly integrated diverse components. Employed the SFML library for game display, incorporated the Picture Bus and Virtual Screen functionalities, and integrated controller mechanisms to capture users' keyboard inputs.
