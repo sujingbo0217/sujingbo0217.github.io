@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2024-6-1-enhancing-adversarial-attacks-through-chain-of-thought-1
 excerpt: 'This paper enhances adversarial attacks on aligned LLMs by integrating chain of thought prompts with the greedy coordinate gradient technique, improving attack robustness and transferability, and evaluating harmful interactions using Llama Guard.'
 date: 2024-06-01
-venue: ''
+# venue: ''
 # paperurl: 'https://www.researchgate.net/publication/370983446_A_Parallel_Gannet_Optimization_Algorithm_with_Communication_Strategies_PGOA'
 citation: 'Jingbo Su &quot;Enhancing Adversarial Attacks through Chain of Thought.&quot;'
 ---
