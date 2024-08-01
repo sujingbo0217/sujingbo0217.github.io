@@ -6,7 +6,7 @@ excerpt: 'This paper enhances adversarial attacks on aligned LLMs by integrating
 date: 2024-06-01
 # venue: ''
 # paperurl: 'https://www.researchgate.net/publication/370983446_A_Parallel_Gannet_Optimization_Algorithm_with_Communication_Strategies_PGOA'
-citation: 'Jingbo Su &quot;Enhancing Adversarial Attacks through Chain of Thought.&quot;'
+citation: 'Jingbo Su. &quot;Enhancing Adversarial Attacks through Chain of Thought.&quot;'
 ---
 
 <!-- [![Paper](https://img.shields.io/badge/Paper-10.1007-blue)](https://link.springer.com/chapter/10.1007/978-981-99-0105-0_7) -->
