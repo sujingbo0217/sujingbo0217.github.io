@@ -10,10 +10,14 @@ redirect_from:
 
 ## Education
 
-* Graduate Preparation Program in Engineering, University of California - Riverside, Sep. 2023 - Present
-* Computer Science and Technology, North China University of Technology, Sep. 2021 - Jul. 2023
-* Mechanical Engineering, North China University of Technology, Sep. 2020 - Jul. 2021
-* **GPA: 3.81/4.0**
+* **North China University of Technology**
+  * Mechanical Engineering, Sep. 2020 - Jul. 2021
+  * Bachelor's Degree in Computer Science, Sep. 2021 - Jul. 2024
+  * GPA: 3.81/4.0
+
+* **University of California, Riverside**
+  * Graduate Preparation Program in Engineering, Sep. 2023 - Jul. 2024
+  * GPA: 3.76/4.0
 
 ## Publications
 
@@ -28,8 +32,8 @@ redirect_from:
 ## Research Experience
 
 * **UC, Riverside Parallel Algorithm Lab** with Prof. Yihan Sun and Prof. Yan Gu
-  * Utilizing the hierarchical navigable small world (HNSW) algorithm as the baseline, and improved it to support filtering. Performing ablation studies, comparing the enhancing algorithm with other (filtered) graph-based ANNS algorithms.
-  * Generated a novel vector dataset as a benchmark for evaluating the filtering performance of each algorithm. The dataset's labels are closely related to each data point, making it more reasonable and convincing for modeling the application of similarity vector search in current fields, such as retrieval augmented generation (RAG) in large language models (LLMs).
+  * Designed a powerful parallel computing library, which supports plug-and-play graph-based ANNS modules, including graph-based vector indices, ANNS algorithms, and filtered indices, etc. The objective is to simplify the system design process and and provide an efficient means for developers to test and evaluate the performance of their graph-based ANNS algorithms.
+  * Integrated the existing filtered ANNS algorithms into the framework as one of the applications. Evaluated the integrated filtered ANNS algorithms on various filtered vector datasets. The results demonstrated that both the throughput (QPS) and the accuracy (recall) are superior to those achieved by the same algorithm on its original framework and many SOTA vector databases.
 
 * **UC, Riverside CS222 Final Project**
   * Combined gradient-based adversarial attack techniques with Chain of Thought (CoT) prompting to study a universal and transferable adversarial CoT suffix to trigger the CoT ability of various large language models (LLMs).
