@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Jingbo Su"
-  avatar           : "me.jpg"
-  bio              : "A student of computer science."
+  avatar           : "boston.JPG"
+  bio              : "Research Assistant @ UCR PAL"
   location         : "Riverside, California"
   employer         :
   pubmed           :
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0003-3744-0168"
+  orcid            : # "https://orcid.org/0000-0003-3744-0168"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "su_jingbo"
+  twitter          : # "su_jingbo"
   vine             :
   weibo            :
   xing             :
