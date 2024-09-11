@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Gallery"
-permalink: /works/
+permalink: /photography/
 author_profile: true
 redirect_from:
   - /photography
