@@ -9,13 +9,19 @@ redirect_from:
 
 I am Jingbo (Bob) Su, graduated from Computer Science and Technology at [North China University of Technology](http://www.ncut.edu.cn), Beijing, China. At present, I am working as a research assistant at [UC Riverside Parallel Algorithm Lab](https://pal.cs.ucr.edu) advised by Professor [Yan Gu](https://www.cs.ucr.edu/~ygu) and [Yihan Sun](https://www.cs.ucr.edu/~yihans). I previously worked with Professor Ruobin Wang and Doctor Lin Xu in the Evolutionary Algorithm Lab at NCUT. During my final year of undergraduate, I enrolled in the [Graduate Preparation Programs](https://gpp.ucr.edu/) and earned an Advanced Certificate in Engineering.
 
-My research interests are ***parallel algorithms***, ***approximate nearest neighbor search***, ***vector databases***, and ***affective computing***.
+My research interests are (CS) **parallel algorithms**, **approximate nearest neighbor search**, and **vector databases**; (HCI) **accessibility** and **user interfaces**.
+
+**<span style="color:blue">I am a Ph.D. applicant for Fall 2025.</span>**
 
 ## 🎓 On-going Projects
 
 ### Efficient Parallel Graph-based Approximate Nearest Neighbor Library (ANNlib)
 
-**ANNlib** is the project I am doing now at UCR PAL. **ANNlib** is an efficient system that supports developers in designing, building and evaluating their own graph-based ANN algorithms. We modularly encapsulate a host of public components commonly used by various prevlant graph-based ANN algorithms such as [DiskANN](https://papers.nips.cc/paper_files/paper/2019/file/09853c7fb1d3f8ee67a61b6bf4a7f8e6-Paper.pdf), [HNSW](https://arxiv.org/pdf/1603.09320), [HCNNG](https://www.sciencedirect.com/science/article/abs/pii/S0031320319302730), etc. By evaluating several of the above and other graph-based ANN algorithms on our system and comparing the results with the performance of these algorithms on their original systems, we find that our system performs better, or at least as well, in terms of accuracy (recall) and throughput (QPS). In essence, our system enables ANN researchers and developers to easily design and evaluate their own graph-based ANN algorithms in the same environment, and to implement more sophisticated operations such as dynamic insertion-deletion and hybrid filtered search.
+<!-- **ANNlib** is the project I am doing now at UCR PAL. **ANNlib** is an efficient system that supports developers in designing, building and evaluating their own graph-based ANN algorithms. We modularly encapsulate a host of public components commonly used by various prevlant graph-based ANN algorithms such as [DiskANN](https://papers.nips.cc/paper_files/paper/2019/file/09853c7fb1d3f8ee67a61b6bf4a7f8e6-Paper.pdf), [HNSW](https://arxiv.org/pdf/1603.09320), [HCNNG](https://www.sciencedirect.com/science/article/abs/pii/S0031320319302730), etc. By evaluating several of the above and other graph-based ANN algorithms on our system and comparing the results with the performance of these algorithms on their original systems, we find that our system performs better, or at least as well, in terms of accuracy (recall) and throughput (QPS). In essence, our system enables ANN researchers and developers to easily design and evaluate their own graph-based ANN algorithms in the same environment, and to implement more sophisticated operations such as dynamic insertion-deletion and hybrid filtered search. -->
+
+<span style="color:grey">Submission expected in early 2025</span>
+
+**ANNlib** is an efficient library for the development, testing, and acceleration of approximate nearest neighbor (ANN) algorithms. It places particular emphasis on the ease of use and high-performance. ANNlib simplifies both the creation of novel ANN algorithms and the reproduction of existing ones by providing standardized interfaces and building blocks ranging from highly optimized data structures and algorithm templates to customizable ID management and parallelism frameworks. Users can take advantage of ANNlib's plug-and-play components to experiment with a variety of indexing designs, and achieve state-of-the-art performance with minimal development effort.
 
 ## 🛠️ Skills
 
