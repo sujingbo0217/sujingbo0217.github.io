@@ -14,7 +14,7 @@ redirect_from:
   * Bachelor of Engineering
   * Mechanical Engineering, 2020 - 2021
   * Computer Science, 2021 - 2024
-  * GPA: 3.81/4.0
+  * GPA: 3.75/4.0
 
 * **University of California, Riverside**
   * Certificate in Graduate Preparation Program
@@ -111,6 +111,7 @@ redirect_from:
 * UCR Parllel Algorithm Lab, Riverside, Research Assistant, 2024 - 2025
 * Weaviate: *Certificate of AI in Prod*, Seattle, 2024
 * UIST 2024, *Accessibility Guide Student Volunteer*, Pittsburgh, 2024
+* PPoPP/HPCA 2025, *Student Volunteer*, Las Vegas, 2025
 
 ## Awards
 
