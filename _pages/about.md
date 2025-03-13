@@ -7,7 +7,7 @@ redirect_from:
   - /about/
 ---
 
-I am Jingbo (Bob) Su, graduated from Computer Science and Technology at [North China University of Technology](http://www.ncut.edu.cn), Beijing, China. At present, I am working as a research assistant at [UC Riverside Parallel Algorithm Lab](https://pal.cs.ucr.edu) advised by Professor [Yan Gu](https://www.cs.ucr.edu/~ygu) and [Yihan Sun](https://www.cs.ucr.edu/~yihans). I previously worked with Professor Ruobin Wang and Doctor Lin Xu in the Evolutionary Algorithm Lab at NCUT. During my final year of undergraduate, I enrolled in the [Graduate Preparation Programs](https://gpp.ucr.edu/) and earned an Advanced Certificate in Engineering.
+I am Jingbo Su (Bob), graduated from Computer Science and Technology at [North China University of Technology](http://www.ncut.edu.cn), Beijing, China. At present, I am working as a research assistant at [UC Riverside Parallel Algorithm Lab](https://pal.cs.ucr.edu) advised by Professor [Yan Gu](https://www.cs.ucr.edu/~ygu) and [Yihan Sun](https://www.cs.ucr.edu/~yihans). I previously worked with Professor Ruobin Wang and Doctor Lin Xu in the Evolutionary Algorithm Lab at NCUT. During my final year of undergraduate, I enrolled in the [Graduate Preparation Programs](https://gpp.ucr.edu/) and earned an Advanced Certificate in Engineering.
 
 My research interests are **parallel algorithms**, **approximate nearest neighbor search**, and **vector databases**.
 

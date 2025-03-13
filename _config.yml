@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Bob's Page"
+title                    : "Jingbo Su"
 title_separator          : "-"
-name                     : &name "Jingbo Su"
+name                     : &name "Jingbo Su (Bob)"
 description              : &description ""
 url                      : https://sujingbo0217.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
