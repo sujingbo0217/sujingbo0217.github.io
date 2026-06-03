@@ -32,6 +32,7 @@ My recent research interests are **approximate nearest neighbor search**, **grap
 * Frameworks/Libraries
   * ANNlib, ParlayLib, PyTorch, LangChain, React, Django
 
+<!-- 
 ## 🏄🏻 Hobbies
 
 * 🤺 Fencing
@@ -43,6 +44,7 @@ My recent research interests are **approximate nearest neighbor search**, **grap
 * 🏃🏻 Running
   * 50M Sprint PB: 6.4s (2021)
   * 100M Sprint PB: 12.5s (2018)
+-->
 
 <!-- 
 * 📸 Photography
@@ -59,9 +61,11 @@ Currently, I am conducting research on Neural Architecture Search (NAS), as my s
 
 Last quarter, I took [CS 222: Natural Language Processing](https://sites.google.com/ucr.edu/cs222-nlp/home) at UC, Riverside. The course covered various topics related to large language model (LLM) attacks and safety. For the final project, we were encouraged to explore novel ways to successfully attack publicly available LLMs. My project focused on enhancing adversarial attacks through chain of thought (CoT) prompting. Specifically, I combined gradient-based adversarial attack techniques with CoT prompting to study a universal and transferable adversarial CoT suffix capable of triggering the CoT ability in various LLMs. I implemented and evaluated this attack approach based on the existing codebase *llm-attacks*, running experiments to compare its performance against baseline methods and Amazon's *auto-cot*. Additionally, I evaluated the generated content using *Llama-Guard* and conducted ablation studies on various harmful types categorized by the tool. The experimental results demonstrated that my novel method successfully triggered the CoT ability on generation in multiple public aligned LLMs during attacks, outperforming prior approaches. -->
 
+<!-- 
 ## 👀 Vistors
 
 <div id="clustrmaps-widget">
   <br>
   <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=n&d=sz93jERvAKd2uxtlj7gwu1kZW09Mpvb2EhI_DgOc6vc&co=3382ba&cmn=f7ce46'></script>
 </div>
+-->
