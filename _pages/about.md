@@ -12,7 +12,8 @@ I'm Jingbo (Bob) Su, currently a first-year PhD student in the <span style="colo
 My recent research interests are **approximate nearest neighbor search**, **graph algorithms**, **vector databases**, and **GPU programming**.
 
 ## 🔥 News
-- 2025/04: About to start the PhD journey at the College of <span style="color:green">William & Mary</span>! 🎉
+- 2026/07: Our paper [ANNLib](https://sujingbo0217.github.io/publication/2026-7-10-annlib-vecdb) has been accepted at VecDB@VLDB2026!
+- 2025/08: About to start the PhD journey at the College of <span style="color:green">William & Mary</span>! 🎉
 - 2025/03: New blog [van Emde Boas Trees](https://sujingbo0217.github.io/posts/2025/03/blog-post-1/) has been posted!
 
 <!-- ## 📝 On-going Projects -->
