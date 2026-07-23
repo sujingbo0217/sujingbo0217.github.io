@@ -8,4 +8,4 @@ date: 2025-08-27
 location: "Williamsburg, VA"
 ---
 
-TBD
+Instructor: Yanfu Zhang
