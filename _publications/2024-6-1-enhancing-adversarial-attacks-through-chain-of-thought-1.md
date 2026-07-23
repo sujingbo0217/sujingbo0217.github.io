@@ -10,10 +10,10 @@ citation: 'Su, Jingbo. &quot;Enhancing Adversarial Attacks through Chain of Thou
 ---
 
 <!-- [![Paper](https://img.shields.io/badge/Paper-10.1007-blue)](https://link.springer.com/chapter/10.1007/978-981-99-0105-0_7) -->
-[![Paper](https://img.shields.io/badge/Paper-arXiv-red)](https://arxiv.org/abs/2410.21791)
+[![Paper](https://img.shields.io/badge/Paper-arXiv:2410.21791-red)](https://arxiv.org/abs/2410.21791)
 [![Code](https://img.shields.io/badge/Code-LLM.Attack-green)](https://github.com/sujingbo0217/CS222W24-LLM-Attack)
 
-**Author:** Jingbo Su  
+**Author:** **Jingbo Su**  
 *North China University of Technology*  
 *University of California, Riverside*
 

@@ -10,8 +10,8 @@ paperurl: 'https://arxiv.org/pdf/2607.17582'
 ---
 
 <!-- [![Paper](https://img.shields.io/badge/Paper-10.1007-blue)](https://link.springer.com/chapter/10.1007/978-981-99-0105-0_7) -->
-[![Paper](https://img.shields.io/badge/Paper-arXiv-red)](https://arxiv.org/abs/2607.17582)
-[![Code](https://img.shields.io/badge/Code-ANNLib-blue)](https://github.com/ucrparlay/ANNlib-pub)
+[![Paper](https://img.shields.io/badge/Paper-arXiv:2607.17582-red)](https://arxiv.org/abs/2607.17582)
+[![Code](https://img.shields.io/badge/Code-ANNLib-green)](https://github.com/ucrparlay/ANNlib-pub)
 
 **Author:** Zheqi Shen, **Jingbo Su**, Zijin Wan, Yan Gu, Yihan Sun  
 *University of California, Riverside*  
